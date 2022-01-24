@@ -5,6 +5,7 @@ Data
 - [Energy Consumption](https://github.com/maikereis/consumption_data_analysis)
 - [House Prices](https://github.com/maikereis/house_prices)
 - [Social Network ADS](https://github.com/maikereis/social_network_ads)
+- [Online Shoppers Intention](https://github.com/maikereis/social_network_ads)
 
 API
 
