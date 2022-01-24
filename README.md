@@ -10,4 +10,4 @@ Data
 API
 
 - [Breweries API](https://github.com/maikereis/breweries)
-- [CashBack API](https://github.com/maikereis/cashback)
+- [CashBack API](https://github.com/maikereis/online_shoppers_intention)
