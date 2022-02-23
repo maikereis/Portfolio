@@ -8,7 +8,7 @@ Este é o meu portfólio, aqui você encontra alguns projetos em que venho traba
 
 :us:
 
-Bacharel em Engenharia Elétrica pela UFPA, gosto de programar e pôr a mão na massa! Meu interesse em Sistemas embarcados, IoT (internet das coisas) me trouxeram ao mundo dos dados. Atualmente estudo Ciência de Dados, Machine Learning e MLOps. Meu plano malígno é um dia utilizar todo o conhecimento adquirido durante essa jornada para criar serviços utilizando ML e IoT.
+Bachelor in Electrical Engineering from UFPA, I like to program and get my hands dirty! My interest in Embedded Systems, IoT (Internet of Things) brought me to the world of data. I am currently studying Data Science, Machine Learning and MLOps. My evil plan is to one day use all the knowledge acquired during this journey to create services using ML and IoT.
 
 This is my portfolio, here you will find some projects that I've been working on involving Machine learning & MLOps.
 
