@@ -26,12 +26,13 @@ This is my portfolio, here you will find some projects that I've been working on
 
 ### Data
 
-- [Google Data Analytics Capstone](https://github.com/maikereis/google_analytics_capstone)
 - [Energy Consumption](https://github.com/maikereis/consumption_data_analysis)
 - [House Prices](https://github.com/maikereis/house_prices)
+- [Traffic Campaign](https://github.com/maikereis/ads)
+- [Loan Prediction](https://github.com/maikereis/loan)
 - [Social Network ADS](https://github.com/maikereis/social_network_ads)
 - [Online Shoppers Intention](https://github.com/maikereis/online_shoppers_intention)
-- [Traffic Campaign](https://github.com/maikereis/ads)
+
 
 ## Contributions to Open Source 
 
