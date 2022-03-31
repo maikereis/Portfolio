@@ -36,7 +36,7 @@ This is my portfolio, here you will find some projects that I've been working on
 
 ## Contributions to Open Source 
 
-- [MOps Project](https://github.com/Schots/mlops_project)
+- [MLOps Project](https://github.com/Schots/mlops_project)
 
 ## API
 
